@@ -15,6 +15,5 @@ public class Test {
         System.out.println(1.2e3); //1.2 * 10^3 (1.2かける10の3乗)
         System.out.println(1.2e+3); 
         System.out.println(1.2e-3); //1.2 * 10^-3 (1.2かける10の-3乗)
-        System.out.println(null);
     }
 }
